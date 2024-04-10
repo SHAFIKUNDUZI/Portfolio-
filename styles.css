@@ -1,0 +1,107 @@
+.accueil{
+    color: black;
+    flex: auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px;text-decoration: none;
+    
+
+}
+header{background-color: gray; 
+    text-align: center;
+    position:static;
+    z-index: 10;
+}
+.logo{ width: 100px; 
+
+
+} 
+ul{list-style-type: none;  }
+h1{
+width: 50%;
+padding: 20px 20px;
+
+}
+h2{font-size: 50px;
+padding:10px 40px;
+}
+h2{
+   text-align: left;
+   
+}
+
+.styles{ width: 45px;
+
+
+
+}
+
+.a1{
+background-color: brown;
+color: aliceblue;
+}
+.reaseux{ 
+    display: flex;
+text-align: left; gap: 20px;
+
+}
+
+section{
+display: flex;
+align-items: center;
+}
+
+.myphoto{ width: 200px;
+}
+h2{
+    width: 20px;
+}
+h3{padding: 20px;}
+.projet{
+    width: 40%;
+    border-radius: 25px;
+    background-color:white;
+box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.39);}
+.projetmiroir{
+    width: 100%;
+    border-radius: 25px;
+    height: 200px;
+    object-fit: cover;
+
+}
+.nom{padding: 20px;}
+.paraghraph1{
+    padding: 20px;
+}
+
+.TESLA{
+    width: 100%;
+    border-radius: 25px;
+    height: 200px;
+    object-fit: cover;
+}
+.nom2{
+    padding: 20px;
+}
+.paraghraph2{
+    padding: 20px;
+}
+.article4{
+    display: flex;
+    gap: 20px;
+   flex-wrap: wrap;
+    
+    justify-content: space-between;
+    
+}
+
+.container{
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.images{
+    background-color: aliceblue;
+    color: black;
+    display: flex;
+}
